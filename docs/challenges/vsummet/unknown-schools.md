@@ -1,4 +1,4 @@
-# _Job Searching When No One Knows Who You Are_
+# _Job Searching When No One Knows Where You're From_
 Contributed by Valerie Summet, vsummet@rollins.edu
 
 ## Institutional and departmental context
