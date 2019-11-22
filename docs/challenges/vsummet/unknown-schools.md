@@ -1,11 +1,11 @@
 # _Job Searching When No One Knows Where You're From_
-Contributed by Valerie Summet, vsummet@rollins.edu
+Contributed by Valerie Summet, vsummet [@] rollins.edu
 
 ## Institutional and departmental context
 - Institution Name: Rollins College
 - Location: Winter Park, FL
 - Student body size: ~2000 undergraduate students
-- Degree(s) offered: Computer Science
+- Degree(s) offered: BA (Computer Science)
 - Department/major name: Computer Science and Mathematics
 - Number of contributing faculty: 4 FTE
 - Number of majors annually: 20-30 majors
@@ -14,7 +14,7 @@ Contributed by Valerie Summet, vsummet@rollins.edu
 Are you willing to facilitate this discussion? _Yes_
 
 Are there any others whom you would recommend as potential facilitators for this topic?
-Dan Myers (Rollins College)
+Dan Myers, dmyers [@] rollins.edu (Rollins College)
 
 ## Description
 
